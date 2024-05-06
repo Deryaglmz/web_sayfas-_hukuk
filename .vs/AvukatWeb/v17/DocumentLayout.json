@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\AltSayfa.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\AltSayfa.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketDuzenleSil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketEkle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Yonetim\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Yonetim\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Yonetim\\Admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Yonetim\\Admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Anasayfa.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Anasayfa.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaketEkle.aspx",
+              "DocumentMoniker": "C:\\Users\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketEkle.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketEkle.aspx",
+              "ToolTip": "C:\\Users\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketEkle.aspx",
+              "RelativeToolTip": "..\\..\\..\\..\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketEkle.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T16:05:27.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaketDuzenleSil.aspx",
+              "DocumentMoniker": "C:\\Users\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketDuzenleSil.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketDuzenleSil.aspx",
+              "ToolTip": "C:\\Users\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketDuzenleSil.aspx",
+              "RelativeToolTip": "..\\..\\..\\..\\elif\\Desktop\\\u0130nternet Programc\u0131l\u0131\u011F\u0131\\AvukatWeb\\WebApplication1\\Yonetim\\PaketDuzenleSil.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T16:04:44.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Yonetim\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Yonetim\\Default.aspx",
+              "ToolTip": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Yonetim\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Yonetim\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T10:12:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Yonetim\\Admin.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Yonetim\\Admin.Master",
+              "ToolTip": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Yonetim\\Admin.Master",
+              "RelativeToolTip": "WebApplication1\\Yonetim\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T10:12:11.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AltSayfa.Master",
+              "DocumentMoniker": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\AltSayfa.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\AltSayfa.Master",
+              "ToolTip": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\AltSayfa.Master",
+              "RelativeToolTip": "WebApplication1\\AltSayfa.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T14:59:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Anasayfa.Master",
+              "DocumentMoniker": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Anasayfa.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Anasayfa.Master",
+              "ToolTip": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Anasayfa.Master",
+              "RelativeToolTip": "WebApplication1\\Anasayfa.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T14:08:23.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
+              "ToolTip": "C:\\Users\\derya\\OneDrive\\Masa\u00FCst\u00FC\\AvukatWeb\\WebApplication1\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T14:16:35.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
